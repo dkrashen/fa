@@ -1,0 +1,24 @@
+testing: true
+
+# Site settings
+title: "Field Arithmetic (UGA MATH 8430, Spring 2017)"
+page_title: "Field Arithmetic"
+course_title: "UGA MATH 8430, Spring 2017." 
+description: "Field extensions, Galois theory and inverse Galois theory,
+field invariants, Galois cohomology, and open problems."
+instructor: "Daniel Krashen"
+email: "dkrashen@uga.edu"
+office_hours: "TBA, Boyd 437"
+lecture_schedule: "TBA"
+
+syllabus_url: "fa_syllabus/"
+
+baseurl: "/fa"
+url: "http://dkrashen.github.io"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
