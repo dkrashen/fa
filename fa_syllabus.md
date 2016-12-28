@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ###Preliminary Syllabus for MATH8430###
 
 ###(Field Arithmetic)###
