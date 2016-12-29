@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-###Preliminary Syllabus (topic wishlist) for MATH8430###
+<h1>Preliminary Syllabus (topic wishlist) for MATH8430</h1>
 
-###(Field Arithmetic)###
+<h2>(Field Arithmetic)</h2>
 
  - Finite field extensions and Galois theory
  - Inseparable extensions, p-bases
