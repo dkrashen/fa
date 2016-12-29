@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-###Preliminary Syllabus for MATH8430###
+###Preliminary Syllabus (topic wishlist) for MATH8430###
 
 ###(Field Arithmetic)###
 
