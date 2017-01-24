@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   filename: "lecture1.pdf"
   description: "Philosophy and basic notions"
+- title: "Lecture 2"
+  filename: "lecture2.pdf"
+  description: "Finite field extensions"
