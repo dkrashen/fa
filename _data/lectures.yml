@@ -7,3 +7,6 @@
 - title: "Lecture 3"
   filename: "lecture3.pdf"
   description: "Algebraic closures"
+- title: "Lecture 4"
+  filename: "lecture4.pdf"
+  description: "Galois extensions"
